@@ -1,1 +1,2 @@
-把大象装冰箱 一共用四步
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
